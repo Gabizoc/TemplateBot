@@ -1,4 +1,4 @@
-# TemplateBot
+# TemplateBot by Gabizoc
 
 TemplateBot est un bot Discord de base conçu comme point de départ pour développer votre propre bot. Il inclut la configuration minimale et la structure nécessaire pour démarrer rapidement avec Discord.js.
 
